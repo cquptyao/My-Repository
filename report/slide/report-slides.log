@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=latex 2023.7.11)  18 JUL 2023 16:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=latex 2023.7.11)  18 JUL 2023 16:23
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -2325,10 +2325,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 391.
 Here is how much of TeX's memory you used:
  47406 strings out of 480609
  1028649 string characters out of 5907562
- 1585740 words of memory out of 5000000
+ 1586740 words of memory out of 5000000
  62267 multiletter control sequences out of 15000+600000
  561118 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,98p,2378b,875s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report-slides.dvi (21 pages, 255744 bytes).
+Output written on report-slides.dvi (21 pages, 255784 bytes).
